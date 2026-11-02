@@ -1,0 +1,6 @@
+E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/CMakeFiles/Manager_of_password.dir
+E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/CMakeFiles/edit_cache.dir
+E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/CMakeFiles/rebuild_cache.dir
+E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/lib/CMakeFiles/Manager_of_password_lib.dir
+E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/lib/CMakeFiles/edit_cache.dir
+E:/OWN/College/3-cource/OPI/2026.11.03/Manager_of_passwords/build/lib/CMakeFiles/rebuild_cache.dir

@@ -16,6 +16,7 @@ protected:
     bool signed_in = false;
     Account User;
     std::chrono::steady_clock::time_point Updated;
+    Archive() = default;
 public:
     std::vector<Account> Get_Accounts(const std::string &environment);
 };

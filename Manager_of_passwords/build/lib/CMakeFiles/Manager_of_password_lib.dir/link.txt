@@ -1,0 +1,2 @@
+C:\w64devkit\bin\ar.exe qc libManager_of_password_lib.a CMakeFiles/Manager_of_password_lib.dir/src/Account.cpp.obj CMakeFiles/Manager_of_password_lib.dir/src/Archive.cpp.obj CMakeFiles/Manager_of_password_lib.dir/src/Manager_Of_Passwords.cpp.obj
+C:\w64devkit\bin\ranlib.exe libManager_of_password_lib.a
